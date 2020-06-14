@@ -1,0 +1,10 @@
+{
+    "Metadata_Conventions": "Unidata Dataset Discovery v1.0",
+    "array_variables": "contour_lat_e,contour_lon_e,contour_lat_s,contour_lon_s,uavg_profile",
+    "comment": "Surface product; mesoscale eddies",
+    "framework_used": "https://github.com/AntSimi/py-eddy-tracker",
+    "rotation_type": "-1",
+    "standard_name_vocabulary": "NetCDF Climate and Forecast (CF) Metadata Convention Standard Name Table",
+    "track_array_variables": 50,
+    "track_extra_variables": "cost_association,lat_max,lon_max,virtual,n,track"
+}

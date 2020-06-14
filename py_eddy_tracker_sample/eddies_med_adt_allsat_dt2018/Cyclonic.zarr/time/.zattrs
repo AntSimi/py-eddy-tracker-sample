@@ -1,0 +1,10 @@
+{
+    "axis": "T",
+    "calendar": "proleptic_gregorian",
+    "description": "Date of this observation",
+    "longname": "Time",
+    "max": "25334",
+    "min": "15706",
+    "standard_name": "time",
+    "units": "days since 1950-01-01 00:00:00"
+}

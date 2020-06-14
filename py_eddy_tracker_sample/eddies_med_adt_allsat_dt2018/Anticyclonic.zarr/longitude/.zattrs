@@ -1,0 +1,9 @@
+{
+    "axis": "X",
+    "description": "Observation longitude",
+    "longname": "longitude of measurement",
+    "max": "360.93658",
+    "min": "-1.2415771",
+    "standard_name": "longitude",
+    "units": "degrees_east"
+}

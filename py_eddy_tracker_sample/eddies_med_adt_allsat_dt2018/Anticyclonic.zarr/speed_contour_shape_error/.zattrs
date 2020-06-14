@@ -1,0 +1,7 @@
+{
+    "description": "Error criterion of fit on speed contour",
+    "longname": "speed contour error",
+    "max": "80.5",
+    "min": "2.5",
+    "units": "%"
+}

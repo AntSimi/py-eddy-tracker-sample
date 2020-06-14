@@ -1,0 +1,9 @@
+{
+    "axis": "Y",
+    "description": "Observation latitude",
+    "longname": "latitude of measurement",
+    "max": "45.369244",
+    "min": "30.453623",
+    "standard_name": "latitude",
+    "units": "degrees_north"
+}

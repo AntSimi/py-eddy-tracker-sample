@@ -1,0 +1,7 @@
+{
+    "description": "Flag indicating if the value is interpolated between two observations or not (0: observed, 1: interpolated)",
+    "longname": "virtual_position",
+    "max": "1",
+    "min": "0",
+    "units": "boolean"
+}

@@ -1,0 +1,7 @@
+{
+    "description": "Eddy identification number",
+    "longname": "track number",
+    "max": "17934",
+    "min": "0",
+    "units": "ordinal"
+}

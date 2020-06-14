@@ -1,0 +1,7 @@
+{
+    "description": "Average speed of the contour defining the radius scale \u201cspeed_radius\u201d",
+    "longname": "maximum circum-averaged speed",
+    "max": "0.6572",
+    "min": "0.0",
+    "units": "m/s"
+}

@@ -1,0 +1,35 @@
+{
+    "chunks": [
+        200000,
+        50
+    ],
+    "compressor": {
+        "blocksize": 0,
+        "clevel": 9,
+        "cname": "zstd",
+        "id": "blosc",
+        "shuffle": 1
+    },
+    "dtype": "<f4",
+    "fill_value": 0.0,
+    "filters": [
+        {
+            "astype": "<i2",
+            "dtype": "<f4",
+            "id": "fixedscaleoffset",
+            "offset": 0.0,
+            "scale": 100.00000223517424
+        },
+        {
+            "astype": "<i2",
+            "dtype": "<i2",
+            "id": "delta"
+        }
+    ],
+    "order": "C",
+    "shape": [
+        600061,
+        50
+    ],
+    "zarr_format": 2
+}

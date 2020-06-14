@@ -1,0 +1,8 @@
+{
+    "axis": "X",
+    "description": "Latitudes of speed contour",
+    "longname": "speed contour latitudes",
+    "max": "45.579998",
+    "min": "0.0",
+    "units": "degrees_east"
+}

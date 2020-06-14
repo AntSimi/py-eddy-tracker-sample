@@ -1,0 +1,7 @@
+{
+    "description": "Observation sequence number, days from eddy first detection",
+    "longname": "observation number",
+    "max": "494",
+    "min": "0",
+    "units": "ordinal"
+}

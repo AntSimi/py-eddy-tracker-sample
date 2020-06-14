@@ -1,0 +1,7 @@
+{
+    "description": "Radius of a circle whose area is equal to that enclosed by the contour of maximum circum-average speed",
+    "longname": "speed radius scale",
+    "max": "127500.0",
+    "min": "11800.0",
+    "units": "m"
+}

@@ -1,0 +1,7 @@
+{
+    "description": "Magnitude of the height difference between the extremum of ADT within the eddy and the ADT around the contour defining the eddy perimeter",
+    "longname": "amplitude",
+    "max": "0.422",
+    "min": "0.004",
+    "units": "m"
+}
